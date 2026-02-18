@@ -1,6 +1,0 @@
-lastname     = "Llamas"
-firstname    = "MaxineSofia"
-project_name = "FinalProject"
-project_code = "Terraform101-CloudIntern"
-region       = "ap-southeast-1"
-key_name     = "Llamas-FinalAct1"
